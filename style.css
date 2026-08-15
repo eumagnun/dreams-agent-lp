@@ -357,10 +357,6 @@ img {
   text-decoration: underline;
 }
 
-.footer-credit a {
-  color: var(--text-secondary);
-}
-
 /* Responsive */
 @media (max-width: 860px) {
   .hero-inner {

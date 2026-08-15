@@ -26,7 +26,7 @@ const TRANSLATIONS = {
     ctaBand: { title: 'Pronto para olhar para dentro?' },
     footer: {
       disclaimer: 'As interpretações são sugeridas por Inteligência Artificial e não substituem o acompanhamento de um profissional de saúde mental.',
-      login: 'Já tem conta? <a href="https://onirica-app.web.app">Entrar</a>',
+      login: 'Já tem conta? <a href="https://app.onirica.ia.br">Entrar</a>',
     },
   },
   en: {
@@ -56,7 +56,7 @@ const TRANSLATIONS = {
     ctaBand: { title: 'Ready to look within?' },
     footer: {
       disclaimer: 'Interpretations are suggested by Artificial Intelligence and do not replace guidance from a mental health professional.',
-      login: 'Already have an account? <a href="https://onirica-app.web.app">Log in</a>',
+      login: 'Already have an account? <a href="https://app.onirica.ia.br">Log in</a>',
     },
   },
   es: {
@@ -86,7 +86,7 @@ const TRANSLATIONS = {
     ctaBand: { title: '¿Listo para mirar hacia adentro?' },
     footer: {
       disclaimer: 'Las interpretaciones son sugeridas por Inteligencia Artificial y no sustituyen el acompañamiento de un profesional de salud mental.',
-      login: '¿Ya tienes cuenta? <a href="https://onirica-app.web.app">Inicia sesión</a>',
+      login: '¿Ya tienes cuenta? <a href="https://app.onirica.ia.br">Inicia sesión</a>',
     },
   },
 };
