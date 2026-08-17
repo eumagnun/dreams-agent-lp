@@ -1,0 +1,24 @@
+# Onírica — Espelho dos Sonhos
+
+> Onírica is an AI-assisted dream interpretation app grounded in Jungian analytical psychology. A person describes a dream (text or voice), the app asks three follow-up questions, then delivers a symbolic interpretation, an exclusive AI-generated illustration of the dream scene, and a downloadable PDF report. Available in Portuguese, English, and Spanish.
+
+## What it does
+- Interprets dreams through the lens of Carl Jung's analytical psychology (archetypes, symbols, the unconscious) — reflective and educational in tone, not academic jargon.
+- Asks exactly three clarifying questions before delivering the full interpretation, to ground the reading in the dreamer's own context.
+- Generates a unique illustration of the dream's central scene using AI image generation.
+- Produces a PDF report combining the interpretation and the illustration, for the person to keep or share.
+- Detects signs of a mental-health crisis in the conversation and, when it does, stops the dream analysis and surfaces real crisis-support resources instead.
+
+## Who it's for
+Anyone curious about the symbolic meaning of their dreams, as a self-knowledge and reflection tool. It is explicitly **not** a diagnostic, medical, or therapeutic service, and does not replace a licensed mental health professional.
+
+## How to use it
+- App (sign up / log in): https://app.onirica.ia.br
+- New accounts get free credits to try it; additional credits can be purchased afterward.
+- Available languages: Portuguese (pt-BR), English (en), Spanish (es).
+
+## About this site
+This domain (onirica.ia.br) is Onírica's public marketing/landing page — a single static page (hero, how-it-works, features, FAQ, call to action). The actual product (sign-up, chat, dream analysis) lives at the app subdomain linked above, not on this page.
+
+## Company
+Onírica is operated by BIFROST BRASIL CONSULTORIA E TREINAMENTOS.
