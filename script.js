@@ -10,6 +10,7 @@ const TRANSLATIONS = {
       subtitle: 'A Onírica interpreta seus sonhos com a profundidade da psicologia junguiana, cria uma ilustração exclusiva da sua cena e entrega tudo em um relatório para guardar.',
       cta: 'Comece grátis',
       trust: '1 análise grátis ao se cadastrar. Sem necessidade de cartão.',
+      privacyBadge: '🔒 Seus sonhos são criptografados e nunca compartilhados',
     },
     how: {
       title: 'Como funciona',
@@ -27,7 +28,7 @@ const TRANSLATIONS = {
       title: 'Perguntas frequentes',
       q1: { question: 'A Onírica substitui terapia ou acompanhamento psicológico?', answer: 'Não. A Onírica é uma ferramenta de autoconhecimento e reflexão pessoal inspirada na psicologia junguiana. Ela não constitui diagnóstico, aconselhamento psicológico ou tratamento clínico, e não substitui o acompanhamento de um profissional de saúde mental qualificado.' },
       q2: { question: 'Preciso pagar para experimentar?', answer: 'Não. Todo novo cadastro recebe uma análise de sonho grátis, sem necessidade de cartão de crédito. Créditos adicionais podem ser comprados depois, se você quiser continuar usando.' },
-      q3: { question: 'Meus sonhos e meus dados são privados?', answer: 'Sim. O relato do seu sonho é tratado como dado sensível, com base no seu consentimento explícito, e nunca é usado para publicidade nem vendido a terceiros.' },
+      q3: { question: 'Meus sonhos e meus dados são privados?', answer: 'Sim. O relato do seu sonho é tratado como dado sensível, com base no seu consentimento explícito, e nunca é usado para publicidade nem vendido a terceiros. O texto do sonho, a ilustração e o relatório em PDF ficam armazenados de forma criptografada.' },
       q4: { question: 'Em quais idiomas a Onírica está disponível?', answer: 'A Onírica está disponível em português, inglês e espanhol — tanto na conversa com o agente quanto no relatório em PDF gerado.' },
       q5: { question: 'Como funciona a interpretação do sonho?', answer: 'Você conta o que sonhou, por texto ou áudio. A Onírica faz três perguntas rápidas para entender melhor o contexto e, em seguida, entrega uma leitura simbólica baseada na tradição junguiana, uma ilustração exclusiva da cena do sonho e um relatório em PDF para guardar.' },
     },
@@ -48,6 +49,7 @@ const TRANSLATIONS = {
       subtitle: "Onírica interprets your dreams with the depth of Jungian psychology, creates an exclusive illustration of your scene, and delivers it all in a report you can keep.",
       cta: 'Start for free',
       trust: '1 free analysis when you sign up. No card required.',
+      privacyBadge: '🔒 Your dreams are encrypted and never shared',
     },
     how: {
       title: 'How it works',
@@ -65,7 +67,7 @@ const TRANSLATIONS = {
       title: 'Frequently asked questions',
       q1: { question: 'Does Onírica replace therapy or psychological support?', answer: "No. Onírica is a self-knowledge and personal reflection tool inspired by Jungian psychology. It does not constitute a diagnosis, psychological advice, or clinical treatment, and it does not replace the support of a qualified mental health professional." },
       q2: { question: 'Do I have to pay to try it?', answer: 'No. Every new account gets one free dream analysis, no credit card required. Additional credits can be purchased later if you want to keep using it.' },
-      q3: { question: 'Are my dreams and my data private?', answer: 'Yes. Your dream narrative is treated as sensitive data, based on your explicit consent, and is never used for advertising or sold to third parties.' },
+      q3: { question: 'Are my dreams and my data private?', answer: 'Yes. Your dream narrative is treated as sensitive data, based on your explicit consent, and is never used for advertising or sold to third parties. Your dream text, illustration, and PDF report are stored encrypted.' },
       q4: { question: 'What languages is Onírica available in?', answer: 'Onírica is available in Portuguese, English, and Spanish — both in the conversation with the agent and in the generated PDF report.' },
       q5: { question: 'How does the dream interpretation work?', answer: "You share what you dreamed, in writing or as audio. Onírica asks three quick questions to better understand the context, then delivers a symbolic reading grounded in the Jungian tradition, an exclusive illustration of the dream scene, and a PDF report you can keep." },
     },
@@ -86,6 +88,7 @@ const TRANSLATIONS = {
       subtitle: 'Onírica interpreta tus sueños con la profundidad de la psicología junguiana, crea una ilustración exclusiva de tu escena y te lo entrega todo en un informe para guardar.',
       cta: 'Comienza gratis',
       trust: '1 análisis gratis al registrarte. No se necesita tarjeta.',
+      privacyBadge: '🔒 Tus sueños están cifrados y nunca se comparten',
     },
     how: {
       title: 'Cómo funciona',
@@ -103,7 +106,7 @@ const TRANSLATIONS = {
       title: 'Preguntas frecuentes',
       q1: { question: '¿Onírica sustituye la terapia o el acompañamiento psicológico?', answer: 'No. Onírica es una herramienta de autoconocimiento y reflexión personal inspirada en la psicología junguiana. No constituye un diagnóstico, asesoramiento psicológico ni tratamiento clínico, y no sustituye el acompañamiento de un profesional de salud mental calificado.' },
       q2: { question: '¿Necesito pagar para probarla?', answer: 'No. Cada nueva cuenta recibe un análisis de sueño gratis, sin necesidad de tarjeta de crédito. Puedes comprar créditos adicionales después, si quieres seguir usándola.' },
-      q3: { question: '¿Mis sueños y mis datos son privados?', answer: 'Sí. El relato de tu sueño se trata como dato sensible, con base en tu consentimiento explícito, y nunca se usa con fines publicitarios ni se vende a terceros.' },
+      q3: { question: '¿Mis sueños y mis datos son privados?', answer: 'Sí. El relato de tu sueño se trata como dato sensible, con base en tu consentimiento explícito, y nunca se usa con fines publicitarios ni se vende a terceros. El texto del sueño, la ilustración y el informe en PDF se almacenan cifrados.' },
       q4: { question: '¿En qué idiomas está disponible Onírica?', answer: 'Onírica está disponible en portugués, inglés y español — tanto en la conversación con el agente como en el informe en PDF generado.' },
       q5: { question: '¿Cómo funciona la interpretación del sueño?', answer: 'Cuentas lo que soñaste, por escrito o por audio. Onírica hace tres preguntas rápidas para entender mejor el contexto y luego entrega una lectura simbólica basada en la tradición junguiana, una ilustración exclusiva de la escena del sueño y un informe en PDF para guardar.' },
     },
@@ -125,10 +128,13 @@ function detectInitialLanguage() {
   const stored = localStorage.getItem('onirica_lang');
   if (stored && SUPPORTED_LANGUAGES.includes(stored)) return stored;
 
-  const browserLang = (navigator.language || 'pt-BR').toLowerCase();
-  if (browserLang.startsWith('en')) return 'en';
+  // Só pt-BR e es têm tradução dedicada — qualquer outro idioma do
+  // navegador (incluindo inglês) cai em inglês, não em português. Mesma
+  // regra do app (ver ui/src/i18n/index.ts).
+  const browserLang = (navigator.language || 'en').toLowerCase();
+  if (browserLang.startsWith('pt')) return 'pt-BR';
   if (browserLang.startsWith('es')) return 'es';
-  return 'pt-BR';
+  return 'en';
 }
 
 function applyLanguage(lang) {

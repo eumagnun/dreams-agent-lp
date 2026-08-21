@@ -196,6 +196,20 @@ img {
   margin: 0;
 }
 
+.hero-privacy-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--accent-pink);
+  background: rgba(236, 72, 153, 0.08);
+  border: 1px solid var(--border-highlight);
+  border-radius: 999px;
+  padding: 8px 16px;
+  margin: 14px 0 0 0;
+}
+
 .hero-visual {
   display: flex;
   justify-content: center;
